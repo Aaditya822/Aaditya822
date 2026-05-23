@@ -8,8 +8,6 @@ Frontend Developer • React Learner • Problem Solver 🚀
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Native+Developer;JavaScript+Enthusiast;Learning+Full+Stack+Development;Always+Learning+New+Things+🚀" />
 </p>
 
----
-
 <p align="center">
 
 <a href="https://linkedin.com/in/aaditya-gautam1" target="_blank">
@@ -20,7 +18,7 @@ Frontend Developer • React Learner • Problem Solver 🚀
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_RESUME_LINK">
+<a href="https://github.com/Aaditya822/Aaditya-Gautam/raw/main/Aaditya_Gautam_Resume.pdf">
   <img src="https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
@@ -43,7 +41,7 @@ Frontend Developer • React Learner • Problem Solver 🚀
 
 # 💼 Professional Experience
 
-## 📱 App Developer Intern — CodeAlpha
+## 📱 App Developer Intern (CodeAlpha)
 
 📅 Duration: Aug 2025 - Sep 2025
 📍 Remote Internship
@@ -60,7 +58,7 @@ Frontend Developer • React Learner • Problem Solver 🚀
 
 `React` `JavaScript` `HTML` `CSS` `GitHub`
 
-## ⚛️ React Native App Developer Intern — CodeSoft
+## ⚛️ React Native App Developer Intern (CodeSoft)
 
 📅 Duration: Sep 2025 - Oct 2025  
 📍 Remote Internship
@@ -78,12 +76,47 @@ Frontend Developer • React Learner • Problem Solver 🚀
 `React Native` `JavaScript` `API Integration` `Git` `GitHub`
 
 ---
-
 # 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,cpp,git,github,vscode,mysql" />
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+## ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/APPWRITE-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
+</p>
+
+## 🛠 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 </div>
 
@@ -103,34 +136,6 @@ Frontend Developer • React Learner • Problem Solver 🚀
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---

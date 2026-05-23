@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aaditya Singh</h1>
+<h1 align="center">Hey 👋, I'm Aaditya Gautam</h1>
 
 <h3 align="center">
 Frontend Developer • React Learner • Problem Solver 🚀
@@ -119,6 +119,20 @@ Frontend Developer • React Learner • Problem Solver 🚀
 </p>
 
 </div>
+
+---
+
+# 🎓 Education
+
+## Bachelor of Technology - Computer Science & Engineering
+
+*Veer Bahadur Singh Purvanchal University* | 2023 - Present  
+**Current CGPA: 7.00** | Jaunpur, Uttar Pradesh
+
+## Intermediate (UP Board Class XII)
+
+*Gandhi Inter College* | 2019 - 2021  
+**Percentage: 78.20%** | Muzaffarnagar, Uttar Pradesh
 
 ---
 
